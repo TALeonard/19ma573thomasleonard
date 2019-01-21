@@ -5,4 +5,6 @@ Computational methods on financial math
 
 Homework assignments:
 * HW 1, GitHub+Colab Setup: [ipynb](src/homework1_v01.ipynb)
+* HW 2 Part 1, Second order finite difference operator: [ipynb](src/hw2_second_fd_v01.ipynb)
+* HW 2 Part 2, Finite difference operator with higher order convergence: 
       
