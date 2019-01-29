@@ -7,6 +7,6 @@ Homework assignments:
 * HW 1, GitHub+Colab Setup: [ipynb](src/homework1_v01.ipynb)
 * HW 2 Part 1, Second order finite difference operator: [ipynb](src/hw2_second_fd_v01.ipynb)
 * HW 2 Part 2, Finite difference operator with higher order convergence: [ipynb](src/hw2_ex_fd_v02.ipynb)
-* HW 3 Part 1, Graphing Payoffs of Option Portfolios: ***WORK IN PROGRESS***
+* HW 3 Part 1, Graphing Payoffs of Option Portfolios: [ipynb](src/hw3_option_combinations_v02.ipynb)
 * HW 3 Part 2, Implied Volatility: [ipynb](src/hw3_implied_volatility_v02.ipynb)
       
