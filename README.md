@@ -11,5 +11,5 @@ Homework assignments:
 * HW 3 Part 2, Implied Volatility: [ipynb](src/hw3_implied_volatility_v02.ipynb)
 * HW 4 Part 1, BSM Calibration: [ipynb](src/hw4_bsm_calibration_v02.ipynb)
 * HW 4 Part 2, BSM Geometric Asian Option Pricing: [ipynb](src/hw4_bsm_geometric_asian_option_v02.ipynb)
-* HW 5 Part 1, Monte Carlo Proofs: WORK IN PROGRESS
+* HW 5 Part 1, Monte Carlo Proofs:[ipynb](src/hw5_mc_01_v02.ipynb)
 * HW 5 Part 2, Monte Carlo Approximation of pi: [ipynb](src/hw5_mc_02_v02.ipynb)
