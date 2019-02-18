@@ -15,4 +15,4 @@ Homework assignments:
 * HW 5 Part 2, Monte Carlo Approximation of pi: [ipynb](src/hw5_mc_02_v02.ipynb)
 * HW 5 Part 1, Ordinary Monte Carlo Definite Integrals: [ipynb](src/hw6_omc_integral_v01.ipynb)
 * HW 5 Part 2, Inverse Transform and Importance Sampling: [ipynb](src/hw6_is_it_integral_v01.ipynb)
-* HW 5 Part 3, BSM, AAC, and Exact Sampling: ***WORK IN PROGRESS***
+* HW 5 Part 3, BSM, AAC, and Exact Sampling: [ipynb](src/hw6_exact_sample_v01.ipynb)
