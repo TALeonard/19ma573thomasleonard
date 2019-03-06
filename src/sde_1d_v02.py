@@ -141,9 +141,6 @@ def bsm_arithmetic_asian_exact_sample(self,
   A = np.zeros(num_path)
   C_sample = np.zeros(num_path)
   
-  
-  ### UNCERTAINTY: HOW TO SET UP TIME STEP SYSTEM
-  
   # Generate (num_path) many GBM paths by exact sampling.
   
   for i in range(m):
