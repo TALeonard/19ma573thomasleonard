@@ -28,11 +28,13 @@ Homework assignments:
 * Part 3, BSM, AAC, and Exact Sampling: [ipynb](src/hw6_exact_sample_v01.ipynb)
 
 # HW 7
-* Part 1, Correlations to AAC: ***WORK IN PROGRESS***
-* Part 2, Exact Sampling: BSM + Knock-in: ***WORK IN PROGRESS***
-* Part 3, Vasicek Model Calibration: ***WORK IN PROGRESS***
+* Part 1, Correlations to AAC: ***WORK IN PROGRESS*** (Need to research Variance Reduction)
+* Part 2, Exact Sampling: BSM + Knock-in: [ipynb](src/hw7_es_bsm_knock_in_v02.ipynb)
+* Part 3, Vasicek Model Calibration: ***WORK IN PROGRESS*** (Need to perform calibrations)
+
+Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't load at all. If it doesn't load when you go to open it, go to this site https://nbviewer.jupyter.org/ and paste the URLs above in (i.e. to view 7-2, go to the page meant for 7-2, copy that page's URL, and paste it into the prompted box on the nbviewer site) to view the actual Jupyter Notebook page.
 
 # HW 8
-* Part 1, Fourier Transform Method: ***WORK IN PROGRESS***
-* Part 2, Heston Models: ***WORK IN PROGRESS***
-* Part 3, Derivation of the Characteristic Function: ***WORK IN PROGRESS***
+* Part 1, Fourier Transform Method: ***WORK IN PROGRESS*** (Need to derive characteristic function of W_t)
+* Part 2, Heston Models: ***WORK IN PROGRESS*** (Need to do everything - characteristic function from Hirsa's book)
+* Part 3, Derivation of the Characteristic Function: ***WORK IN PROGRESS*** (Need to do second proof, not sure if first is still a thing)
