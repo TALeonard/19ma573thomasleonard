@@ -35,6 +35,6 @@ Homework assignments:
 Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't load at all. If it doesn't load when you go to open it, go to this site https://nbviewer.jupyter.org/ and paste the URLs above in (i.e. to view 7-2, go to the page meant for 7-2, copy that page's URL, and paste it into the prompted box on the nbviewer site) to view the actual Jupyter Notebook page.
 
 # HW 8
-* Part 1, Fourier Transform Method: [ipynb](src/hw8_1_v02.ipynb)
+* Part 1, Fourier Transform Method: [ipynb](src/hw8_1_v03.ipynb)
 * Part 2, Heston Models: ***WORK IN PROGRESS*** (Need to do everything - characteristic function from Hirsa's book; ask about issues with computations)
 * Part 3, Derivation of the Characteristic Function: ***WORK IN PROGRESS*** (Possible overlap concern with first proof - may copy over)
