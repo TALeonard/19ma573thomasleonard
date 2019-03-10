@@ -30,7 +30,7 @@ Homework assignments:
 # HW 7
 * Part 1, Correlations to AAC: ***WORK IN PROGRESS*** (Need to research Variance Reduction)
 * Part 2, Exact Sampling: BSM + Knock-in: [ipynb](src/hw7_es_bsm_knock_in_v02.ipynb)
-* Part 3, Vasicek Model Calibration: ***WORK IN PROGRESS*** (Need to perform calibrations)
+* Part 3, Vasicek Model Calibration: ***WORK IN PROGRESS*** (Need to improve calibrations)
 
 Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't load at all. If it doesn't load when you go to open it, go to this site https://nbviewer.jupyter.org/ and paste the URLs above in (i.e. to view 7-2, go to the page meant for 7-2, copy that page's URL, and paste it into the prompted box on the nbviewer site) to view the actual Jupyter Notebook page.
 
