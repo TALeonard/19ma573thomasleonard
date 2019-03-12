@@ -36,5 +36,5 @@ Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't loa
 
 # HW 8
 * Part 1, Fourier Transform Method: [ipynb](src/hw8_1_v03.ipynb)
-* Part 2, Heston Models: [ipynb](src/hw8_2_heston_pricing_v01.ipynb)
+* Part 2, Heston Models: [ipynb](src/hw8_2_heston_pricing_v02.ipynb)
 * Part 3, Derivation of the Characteristic Function: ***WORK IN PROGRESS*** (Possible overlap concern with first proof - may copy over)
