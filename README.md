@@ -38,3 +38,9 @@ Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't loa
 * Part 1, Fourier Transform Method: [ipynb](src/hw8_1_v03.ipynb)
 * Part 2, Heston Models: [ipynb](src/hw8_2_heston_pricing_v02.ipynb)
 * Part 3, Derivation of the Characteristic Function: [ipynb](src/hw8_3_derivation_of_characteristic_function_v02.ipynb)
+
+# HW 10
+(HW 9 is not present here as it is simply an initial report on my final project.)
+* Part 1, FTCS and Stability in a Heat Equation: [ipynb](https://github.com/TALeonard/19ma573thomasleonard/blob/master/src/hw10_heat_ftcs.ipynb)
+* Part 2, FTCS Stability Questions: ***WORK IN PROGRESS***
+* Part 3, 2-Dimensional Ito: ***WORK IN PROGRESS***
