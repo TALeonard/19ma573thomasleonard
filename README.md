@@ -44,3 +44,5 @@ Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't loa
 * Part 1, FTCS and Stability in a Heat Equation: [ipynb](src/hw10_heat_ftcs.ipynb)
 * Part 2, FTCS Stability Questions: [ipynb](src/hw10_ftcs_stability.ipynb)
 * Part 3, 2-Dimensional Ito: [ipynb](src/hw10_2d_ito.ipynb)
+
+Note: Previewing part 3 makes it look peculiar/incomplete (may be a result of me trying to read it right after pushing it live). If it seems incomplete then I recommend either using the nbviewer site I linked above from when my HW7/8 were having issues, or viewing it directly in Colab.
