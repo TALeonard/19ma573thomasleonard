@@ -42,5 +42,5 @@ Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't loa
 # HW 10
 (HW 9 is not present here as it is simply an initial report on my final project.)
 * Part 1, FTCS and Stability in a Heat Equation: [ipynb](src/hw10_heat_ftcs.ipynb)
-* Part 2, FTCS Stability Questions: ***WORK IN PROGRESS***
+* Part 2, FTCS Stability Questions: [ipynb](src/hw10_ftcs_stability.ipynb)
 * Part 3, 2-Dimensional Ito: [ipynb](src/hw10_2d_ito.ipynb)
