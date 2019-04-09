@@ -46,3 +46,7 @@ Note: IPYNB files are acting very weird lately. Sometimes .ipynb pages don't loa
 * Part 3, 2-Dimensional Ito: [ipynb](src/hw10_2d_ito.ipynb)
 
 Note: Previewing part 3 makes it look peculiar/incomplete (may be a result of me trying to read it right after pushing it live). If it seems incomplete then I recommend either using the nbviewer site I linked above from when my HW7/8 were having issues, or viewing it directly in Colab.
+
+# HW 11
+* Part 1, CRR Convergence: [ipynb](src/hw11_crr_v01.ipynb)
+* Part 2, BTCS Stability in a Heat Equation: ***WORK IN PROGRESS***
