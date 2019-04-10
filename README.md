@@ -49,4 +49,4 @@ Note: Previewing part 3 makes it look peculiar/incomplete (may be a result of me
 
 # HW 11
 * Part 1, CRR Convergence: [ipynb](src/hw11_crr_v01.ipynb)
-* Part 2, BTCS Stability in a Heat Equation: ***WORK IN PROGRESS***
+* Part 2, BTCS Stability in a Heat Equation: [ipynb](src/hw11_btcs_stability_head_1d_v01.ipynb)
