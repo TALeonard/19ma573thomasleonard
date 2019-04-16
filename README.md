@@ -50,3 +50,6 @@ Note: Previewing part 3 makes it look peculiar/incomplete (may be a result of me
 # HW 11
 * Part 1, CRR Convergence: [ipynb](src/hw11_crr_v01.ipynb)
 * Part 2, BTCS Stability in a Heat Equation: [ipynb](src/hw11_btcs_stability_head_1d_v01.ipynb)
+
+# HW 12
+* Part 1, Importance Sampling with a Digital Option: [ipynb](src/hw12_v01.ipynb)
