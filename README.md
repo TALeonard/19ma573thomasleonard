@@ -54,8 +54,5 @@ Note: Previewing part 3 makes it look peculiar/incomplete (may be a result of me
 # HW 12
 * Part 1, Importance Sampling with a Digital Option: [ipynb](src/hw12_v01.ipynb)
 
-# HW 13
-* Part 1, Whatever Professor Song chooses to call it: ***WORK IN PROGRESS***
-
 # Final Project
 A larger-scale implied volatility program (compared to previous works done in class), using real data from Bloomberg: ***WORK IN PROGRESS***
