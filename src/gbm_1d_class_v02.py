@@ -84,8 +84,8 @@ def bsm_geometric_asian_price(self,
   #Create a separate GBM variable to store the new sigma and r, for the sake of
   #computing the price.
   
-  gao_internal_gbm = Gbm_1d(init_state=s0,drift_ratio = r_hat,vol_ratio = sigma_hat)
+  gao_internal_gbm = Gbm(init_state=s0,drift_ratio = r_hat,vol_ratio = sigma_hat)
   
   return np.exp((r_hat - r)*maturity) * gao_internal_gbm.bsm_price(VanillaOption(otype,strike,maturity))
 
-Gbm_1d.bsm_geometric_asian_price = bsm_geometric_asian_price
+Gbm.bsm_geometric_asian_price = bsm_geometric_asian_price
