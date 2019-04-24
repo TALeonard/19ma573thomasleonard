@@ -49,3 +49,43 @@ def bsm_price(self, european_option):
             - otype * np.exp(-r * maturity) * k * ss.norm.cdf(otype * d2))
 
 Gbm.bsm_price = bsm_price
+
+'''==============
+output: BSM geometric asian option price
+==============='''
+
+def bsm_geometric_asian_price(self,
+                             otype = 1,
+                             strike = 110,
+                             maturity = 1,
+                             num_step = 4 #partition number
+                             ):
+  s0 = self.init_state
+  sigma = self.vol_ratio
+  r = self.drift_ratio
+  n = num_step
+  
+  #NOTE: This price assumes a uniform partition time steps, for ease of coding.
+ 
+  #Compute mu-hat
+  #mu-hat = mu/2 (we are assuming uniform partition as stated above)
+  mu = r - 0.5*(sigma**2)
+  mu_hat = (mu/2)
+  
+  #Compute sigma-hat
+  #Sigma-hat^2 = (sigma^2 * (2m + 1))/(6*(m+1)) where m is the number of steps.
+  #Recall that the vol_ratio is sigma, not sigma^2. Thus we need both.
+  sigma_hat_squared = ((sigma**2)*((2*n) + 1))/(6*(n+1))
+  sigma_hat = sigma_hat_squared ** 0.5
+  
+  #With mu-hat and sigma-hat calculated, we can find r-hat.
+  r_hat = mu_hat + (0.5 * sigma_hat_squared)
+  
+  #Create a separate GBM variable to store the new sigma and r, for the sake of
+  #computing the price.
+  
+  gao_internal_gbm = Gbm_1d(init_state=s0,drift_ratio = r_hat,vol_ratio = sigma_hat)
+  
+  return np.exp((r_hat - r)*maturity) * gao_internal_gbm.bsm_price(VanillaOption(otype,strike,maturity))
+
+Gbm_1d.bsm_geometric_asian_price = bsm_geometric_asian_price
