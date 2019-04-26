@@ -55,4 +55,4 @@ Note: Previewing part 3 makes it look peculiar/incomplete (may be a result of me
 * Part 1, Importance Sampling with a Digital Option: [ipynb](src/hw12_v01.ipynb)
 
 # Final Project
-A larger-scale implied volatility program (compared to previous works done in class), using real data from Bloomberg: [ipynb](src/MA573_Project_Larger_Scale_IV_Calculation_v05.ipynb)
+A larger-scale implied volatility program (compared to previous works done in class), using real data from Bloomberg: [ipynb](src/MA573_Project_Larger_Scale_IV_Calculation_v06.ipynb)
