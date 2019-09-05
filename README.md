@@ -1,3 +1,6 @@
+Note for future readers:
+This was a GitHub I maintained during one of my courses at WPI. The course had an emphasis on computational methods in finance, and each set of homework assignments below (except HW 1, which was an introduction to using GitHub our professor wanted to make sure everyone had) generally relates to a topic we covered during the course.
+
 # 19ma573thomasleonard
 Computational methods on financial math
 
